@@ -1,0 +1,2004 @@
+Columna,Valor,Codigo
+entidad,Aguascalientes,0
+entidad,Baja California,1
+entidad,Baja California Sur,2
+entidad,Campeche,3
+entidad,Chiapas,4
+entidad,Chihuahua,5
+entidad,Ciudad de Mexico,6
+entidad,Coahuila de Zaragoza,7
+entidad,Colima,8
+entidad,Durango,9
+entidad,Guanajuato,10
+entidad,Guerrero,11
+entidad,Hidalgo,12
+entidad,Jalisco,13
+entidad,Mexico,14
+entidad,Michoacan de Ocampo,15
+entidad,Morelos,16
+entidad,Nayarit,17
+entidad,Nuevo Leon,18
+entidad,Oaxaca,19
+entidad,Puebla,20
+entidad,Queretaro,21
+entidad,Quintana Roo,22
+entidad,San Luis Potosi,23
+entidad,Sinaloa,24
+entidad,Sonora,25
+entidad,Tabasco,26
+entidad,Tamaulipas,27
+entidad,Tlaxcala,28
+entidad,Veracruz de Ignacio de la Llave,29
+entidad,Yucatan,30
+entidad,Zacatecas,31
+Cve_Delegacion,Aguascalientes,0
+Cve_Delegacion,Baja California,1
+Cve_Delegacion,Baja California Sur,2
+Cve_Delegacion,CDMX Norte,3
+Cve_Delegacion,CDMX Sur,4
+Cve_Delegacion,Campeche,5
+Cve_Delegacion,Chiapas,6
+Cve_Delegacion,Chihuahua,7
+Cve_Delegacion,Coahuila,8
+Cve_Delegacion,Colima,9
+Cve_Delegacion,Durango,10
+Cve_Delegacion,Guanajuato,11
+Cve_Delegacion,Guerrero,12
+Cve_Delegacion,Hidalgo,13
+Cve_Delegacion,Jalisco,14
+Cve_Delegacion,Mexico Oriente,15
+Cve_Delegacion,Mexico Poniente,16
+Cve_Delegacion,Michoacan,17
+Cve_Delegacion,Morelos,18
+Cve_Delegacion,Nayarit,19
+Cve_Delegacion,Nuevo Leon,20
+Cve_Delegacion,Oaxaca,21
+Cve_Delegacion,Puebla,22
+Cve_Delegacion,Queretaro,23
+Cve_Delegacion,Quintana Roo,24
+Cve_Delegacion,San Luis Potosi,25
+Cve_Delegacion,Sinaloa,26
+Cve_Delegacion,Sonora,27
+Cve_Delegacion,Tabasco,28
+Cve_Delegacion,Tamaulipas,29
+Cve_Delegacion,Tlaxcala,30
+Cve_Delegacion,Veracruz Norte,31
+Cve_Delegacion,Veracruz Sur,32
+Cve_Delegacion,Yucatan,33
+Cve_Delegacion,Zacatecas,34
+region_op,Centro-Norte,0
+region_op,Centro-Sur,1
+region_op,Nor-Este,2
+region_op,Nor-Occidente,3
+region,Centro,0
+region,Norte,1
+region,Occidente,2
+region,Sureste,3
+unidmed,HGPMF 31 Mexicali,0
+unidmed,HGSMF 17 Los Reyes,1
+unidmed,HGSMF 4 Tenosique,2
+unidmed,HGSMF 41 Huatulco,3
+unidmed,HGSMF 5 Tizimin,4
+unidmed,HGSMF 54 Empalme,5
+unidmed,HGSMF 7 Panuco,6
+unidmed,HGSMF 8 Tlaxcala,7
+unidmed,HGZMF 1 Campeche,8
+unidmed,HGZMF 1 Chetumal,9
+unidmed,HGZMF 1 La Paz,10
+unidmed,HGZMF 1 San Luis Potosi,11
+unidmed,HGZMF 12 Lazaro Cardenas,12
+unidmed,HGZMF 16 Torreon,13
+unidmed,HGZMF 2 Monterrey,14
+unidmed,HGZMF 21 Leon,15
+unidmed,HGZMF 29 S. Juan Aragon,16
+unidmed,HGZMF 3 Mazatlan,17
+unidmed,HGZMF 3 Salamanca,18
+unidmed,HGZMF 32 Guasave,19
+unidmed,HGZMF 32 Minatitlan,20
+unidmed,HGZMF 36 Jose Cardel,21
+unidmed,HGZMF 4 Iguala,22
+unidmed,HGZMF 5 Zacatepec,23
+unidmed,HGZMF 6 S. Nicolas Garza,24
+unidmed,HGZMF 8 Cd. Sahagun,25
+unidmed,HPSIQ MF 10 Postal,26
+unidmed,UMF 1 Aguascalientes,27
+unidmed,UMF 1 Col. Roma,28
+unidmed,UMF 1 Orizaba,29
+unidmed,UMF 1 Puebla,30
+unidmed,UMF 1 Tapachula,31
+unidmed,UMF 1 Zacatecas,32
+unidmed,UMF 10 Jalapa,33
+unidmed,UMF 10 S. Buenaventura,34
+unidmed,UMF 10 S. Gregorio,35
+unidmed,UMF 11 Cd. Lerdo,36
+unidmed,UMF 11 Colima,37
+unidmed,UMF 11 Comalcalco,38
+unidmed,UMF 11 Peralvillo,39
+unidmed,UMF 11 S. R. Jauregui,40
+unidmed,UMF 12 Allende,41
+unidmed,UMF 12 S. Pedro Cholula,42
+unidmed,UMF 128 Acatic,43
+unidmed,UMF 13 Campeche,44
+unidmed,UMF 13 Cancun Norte,45
+unidmed,UMF 13 Palma,46
+unidmed,UMF 13 Puebla,47
+unidmed,UMF 13 Queretaro,48
+unidmed,UMF 14 Compostela,49
+unidmed,UMF 14 Rosales,50
+unidmed,UMF 14 Zaragoza,51
+unidmed,UMF 15 Ermita Iztapalapa,52
+unidmed,UMF 15 Monterrey,53
+unidmed,UMF 15 Queretaro,54
+unidmed,UMF 15 Terminal,55
+unidmed,UMF 16 Mexicali,56
+unidmed,UMF 17 S.Cristobal,57
+unidmed,UMF 170 Del Mar,58
+unidmed,UMF 171 Zapopan,59
+unidmed,UMF 178 Guadalupe,60
+unidmed,UMF 18 Comitan,61
+unidmed,UMF 18 Nuevo Necaxa,62
+unidmed,UMF 18 Santa Cruz,63
+unidmed,UMF 187 La Higuera,64
+unidmed,UMF 19 Agua Prieta,65
+unidmed,UMF 19 Mezcales,66
+unidmed,UMF 193 Chalco,67
+unidmed,UMF 195 Chalco,68
+unidmed,UMF 2 Hermosillo,69
+unidmed,UMF 2 La Garita,70
+unidmed,UMF 2 Manzanillo,71
+unidmed,UMF 2 Nombre de Dios,72
+unidmed,UMF 2 Puebla,73
+unidmed,UMF 20 Cuernavaca,74
+unidmed,UMF 20 Frontera,75
+unidmed,UMF 20 Huamantla,76
+unidmed,UMF 20 Tepic,77
+unidmed,UMF 20 V. Juarez,78
+unidmed,UMF 20 V. Reyes,79
+unidmed,UMF 21 Fco. del Paso,80
+unidmed,UMF 21 Magdalena,81
+unidmed,UMF 21 Paraiso,82
+unidmed,UMF 21 Zempoala,83
+unidmed,UMF 220 Toluca,84
+unidmed,UMF 222 Toluca,85
+unidmed,UMF 229 Tenancingo,86
+unidmed,UMF 23 Civac,87
+unidmed,UMF 234 Colorines,88
+unidmed,UMF 24 Tepic,89
+unidmed,UMF 245 Aculco,90
+unidmed,UMF 246 Jocotitlan,91
+unidmed,UMF 249 Santiago Tlaxomulco,92
+unidmed,UMF 25 Ensenada,93
+unidmed,UMF 25 Mineral Monte,94
+unidmed,UMF 25 Sanchez Magallanes,95
+unidmed,UMF 26 Monterrey,96
+unidmed,UMF 27 Macuspana,97
+unidmed,UMF 27 Papantla,98
+unidmed,UMF 27 Purisima,99
+unidmed,UMF 27 San Jose del Valle,100
+unidmed,UMF 27 Tijuana,101
+unidmed,UMF 28 El Coloso,102
+unidmed,UMF 28 Monterrey,103
+unidmed,UMF 29 Chihuahua,104
+unidmed,UMF 29 Huichapan,105
+unidmed,UMF 29 Luis Moya,106
+unidmed,UMF 3 Cd. Valles,107
+unidmed,UMF 3 Guadalajara,108
+unidmed,UMF 3 Nogales,109
+unidmed,UMF 3 Villa Aldama,110
+unidmed,UMF 30 Bella Vista,111
+unidmed,UMF 30 Pino,112
+unidmed,UMF 30 San Pedro Tapanatepec,113
+unidmed,UMF 31 Iztapalapa,114
+unidmed,UMF 31 Zimatlan de Alvarez,115
+unidmed,UMF 33 Ciudad Reynosa,116
+unidmed,UMF 33 Cocorit,117
+unidmed,UMF 33 Morelos,118
+unidmed,UMF 33 Tijuana,119
+unidmed,UMF 34 Cd. Juarez,120
+unidmed,UMF 34 Guadalajara,121
+unidmed,UMF 35 C. 7 Zaragoza,122
+unidmed,UMF 35 Culiacan,123
+unidmed,UMF 35 Guerrero Negro,124
+unidmed,UMF 35 La Colonia,125
+unidmed,UMF 35 Santiago Tuxtla,126
+unidmed,UMF 36 Culiacan,127
+unidmed,UMF 37 Ascencion,128
+unidmed,UMF 37 Hermosillo,129
+unidmed,UMF 38 FF.CC.,130
+unidmed,UMF 38 S. Luis Rio Colorado,131
+unidmed,UMF 39 Paso Ovejas,132
+unidmed,UMF 4 Arteaga,133
+unidmed,UMF 4 Atemajac,134
+unidmed,UMF 4 Constancia,135
+unidmed,UMF 4 Guadalupe,136
+unidmed,UMF 4 Jojutla,137
+unidmed,UMF 4 Villa Hidalgo,138
+unidmed,UMF 40 Ixtlan de Juarez,139
+unidmed,UMF 40 Villas del Rey,140
+unidmed,UMF 41 Acanceh,141
+unidmed,UMF 41 Huejotzingo,142
+unidmed,UMF 41 S. Juan Lagos,143
+unidmed,UMF 43 Gomez Palacio,144
+unidmed,UMF 44 Chihuahua,145
+unidmed,UMF 45 Rodrigo M. Quevedo,146
+unidmed,UMF 45 San Luis Potosi,147
+unidmed,UMF 46 Culiacan,148
+unidmed,UMF 47 Alamo,149
+unidmed,UMF 47 Cd. Juarez,150
+unidmed,UMF 47 San Luis Potosi,151
+unidmed,UMF 48 Carlos Carrillo,152
+unidmed,UMF 48 Guadalajara,153
+unidmed,UMF 48 Pomoca,154
+unidmed,UMF 49 Celaya,155
+unidmed,UMF 49 Cumpas,156
+unidmed,UMF 49 Durango,157
+unidmed,UMF 5 C. Anahuac,158
+unidmed,UMF 5 Jerez,159
+unidmed,UMF 5 Santo Toribio,160
+unidmed,UMF 50 Durango,161
+unidmed,UMF 50 Guanajuato,162
+unidmed,UMF 51 Sta. Monica,163
+unidmed,UMF 51 Teolocholco,164
+unidmed,UMF 52 Cosoleacaque,165
+unidmed,UMF 53 Zapopan,166
+unidmed,UMF 54 Tlaquepaque,167
+unidmed,UMF 55 Zumpango,168
+unidmed,UMF 56 Cd. Juarez,169
+unidmed,UMF 56 Las Mandarinas,170
+unidmed,UMF 56 Merida,171
+unidmed,UMF 56 Prados,172
+unidmed,UMF 56 San Pablo Huitzo,173
+unidmed,UMF 57 Delicias,174
+unidmed,UMF 57 Zacatecas,175
+unidmed,UMF 58 Merida,176
+unidmed,UMF 59 Merida,177
+unidmed,UMF 6 Puebla,178
+unidmed,UMF 60 Coatzacoalcos,179
+unidmed,UMF 60 Navojoa,180
+unidmed,UMF 60 Platon Sanchez,181
+unidmed,UMF 60 Poniente,182
+unidmed,UMF 61 Cordoba,183
+unidmed,UMF 61 Naucalpan,184
+unidmed,UMF 61 Veracruz,185
+unidmed,UMF 63 San Ildefonso,186
+unidmed,UMF 64 Cordoba,187
+unidmed,UMF 64 Morelos,188
+unidmed,UMF 64 Sta. Catarina,189
+unidmed,UMF 64 Tequesquinahuac,190
+unidmed,UMF 64 Tuxtepec,191
+unidmed,UMF 65 Cd. Juarez,192
+unidmed,UMF 65 Techaluta,193
+unidmed,UMF 66 Pueblo Nuevo,194
+unidmed,UMF 66 Torreon,195
+unidmed,UMF 67 Cd. Juarez,196
+unidmed,UMF 67 Santa Clara,197
+unidmed,UMF 68 Rincon de la Sierra,198
+unidmed,UMF 68 Veracruz,199
+unidmed,UMF 69 Lincoln,200
+unidmed,UMF 7 Calz. Tlalpan,201
+unidmed,UMF 7 San Marcos,202
+unidmed,UMF 70 Saltillo,203
+unidmed,UMF 73 Poza Rica,204
+unidmed,UMF 73 Saltillo,205
+unidmed,UMF 74 Coatzintla,206
+unidmed,UMF 75 Netzahualcoyotl,207
+unidmed,UMF 76 Uruapan,208
+unidmed,UMF 77 Ciudad Madero,209
+unidmed,UMF 77 La Piedad,210
+unidmed,UMF 77 San Agustin,211
+unidmed,UMF 79 Matamoros,212
+unidmed,UMF 79 Piedras Negras,213
+unidmed,UMF 80 Morelia,214
+unidmed,UMF 81 Cd. Acuna,215
+unidmed,UMF 82 Urdinola,216
+unidmed,UMF 82 Zamora,217
+unidmed,UMF 84 Encarnacion de Diaz,218
+unidmed,UMF 86 Ixtapaluca,219
+unidmed,UMF 86 Monclova,220
+unidmed,UMF 86 S. Miguel Alto,221
+unidmed,UMF 88 Sta. Anita,222
+unidmed,UMF 9 Benito Juarez,223
+unidmed,UMF 9 Del Tintero,224
+unidmed,UMF 9 Puerto Penasco,225
+unidmed,UMF 9 Santa Ana,226
+unidmed,UMF 9 Santa Maria,227
+unidmed,UMF 9 Villa Frontera,228
+unidmed,UMF 92 Cd. Azteca,229
+unidmed,UMF 92 Miravalle,230
+unidmed,UMF 93 Tonala,231
+unidmed,UMF 94 San Juan Aragon,232
+unidmed,UMF 96 Tepozanes,233
+unidmed,UMF-UMAA 23 Tuxtla Gutierrez,234
+unidmed,UMF-UMAA 34 La Paz,235
+unidmed,UMF-UMAA 39 y Rehab,236
+unidmed,UMF-UMAA 68 Hermosillo,237
+unidmed,UMF-UMAA 75 Morelia,238
+unidmed,UMF-UMAA 76 Nuevo Laredo,239
+unidmed,UMFH 12 Dolores Hidalgo,240
+unidmed,UMFH 16 Allende,241
+unidmed,UMFH 16 Tecalitlan,242
+unidmed,UMFH 22 Atotonilco,243
+unidmed,UMFH 24 C. Jimenez,244
+unidmed,UMFH 26 Taretan,245
+unidmed,UMFH 7 Atotonilco,246
+unidmed,UMFH 8 Salvatierra,247
+Id_Unidad,1003,0
+Id_Unidad,1007,1
+Id_Unidad,1009,2
+Id_Unidad,1014,3
+Id_Unidad,1017,4
+Id_Unidad,1033,5
+Id_Unidad,1036,6
+Id_Unidad,1037,7
+Id_Unidad,1039,8
+Id_Unidad,1041,9
+Id_Unidad,1042,10
+Id_Unidad,1048,11
+Id_Unidad,1052,12
+Id_Unidad,1054,13
+Id_Unidad,1060,14
+Id_Unidad,110,15
+Id_Unidad,1113,16
+Id_Unidad,1114,17
+Id_Unidad,1117,18
+Id_Unidad,1128,19
+Id_Unidad,113,20
+Id_Unidad,1130,21
+Id_Unidad,1132,22
+Id_Unidad,1133,23
+Id_Unidad,1142,24
+Id_Unidad,1144,25
+Id_Unidad,1145,26
+Id_Unidad,1146,27
+Id_Unidad,1147,28
+Id_Unidad,115,29
+Id_Unidad,1155,30
+Id_Unidad,1158,31
+Id_Unidad,116,32
+Id_Unidad,1164,33
+Id_Unidad,1167,34
+Id_Unidad,1201,35
+Id_Unidad,1203,36
+Id_Unidad,1205,37
+Id_Unidad,1208,38
+Id_Unidad,1211,39
+Id_Unidad,1230,40
+Id_Unidad,1233,41
+Id_Unidad,1251,42
+Id_Unidad,1252,43
+Id_Unidad,1253,44
+Id_Unidad,1257,45
+Id_Unidad,1264,46
+Id_Unidad,1303,47
+Id_Unidad,1304,48
+Id_Unidad,1305,49
+Id_Unidad,1306,50
+Id_Unidad,1307,51
+Id_Unidad,1364,52
+Id_Unidad,1365,53
+Id_Unidad,1368,54
+Id_Unidad,1375,55
+Id_Unidad,1378,56
+Id_Unidad,1381,57
+Id_Unidad,1395,58
+Id_Unidad,1401,59
+Id_Unidad,1451,60
+Id_Unidad,1452,61
+Id_Unidad,1453,62
+Id_Unidad,1458,63
+Id_Unidad,1459,64
+Id_Unidad,1475,65
+Id_Unidad,1476,66
+Id_Unidad,1486,67
+Id_Unidad,1488,68
+Id_Unidad,1489,69
+Id_Unidad,1497,70
+Id_Unidad,151,71
+Id_Unidad,152,72
+Id_Unidad,155,73
+Id_Unidad,1552,74
+Id_Unidad,1556,75
+Id_Unidad,1557,76
+Id_Unidad,1562,77
+Id_Unidad,1563,78
+Id_Unidad,1564,79
+Id_Unidad,1577,80
+Id_Unidad,1578,81
+Id_Unidad,1579,82
+Id_Unidad,158,83
+Id_Unidad,1580,84
+Id_Unidad,1582,85
+Id_Unidad,159,86
+Id_Unidad,1592,87
+Id_Unidad,1594,88
+Id_Unidad,1595,89
+Id_Unidad,1599,90
+Id_Unidad,160,91
+Id_Unidad,1601,92
+Id_Unidad,1616,93
+Id_Unidad,163,94
+Id_Unidad,1646,95
+Id_Unidad,1647,96
+Id_Unidad,1648,97
+Id_Unidad,1652,98
+Id_Unidad,1655,99
+Id_Unidad,1659,100
+Id_Unidad,1667,101
+Id_Unidad,1669,102
+Id_Unidad,171,103
+Id_Unidad,173,104
+Id_Unidad,1735,105
+Id_Unidad,1736,106
+Id_Unidad,1739,107
+Id_Unidad,1740,108
+Id_Unidad,1745,109
+Id_Unidad,1749,110
+Id_Unidad,1775,111
+Id_Unidad,1777,112
+Id_Unidad,178,113
+Id_Unidad,1781,114
+Id_Unidad,1787,115
+Id_Unidad,179,116
+Id_Unidad,1792,117
+Id_Unidad,1796,118
+Id_Unidad,18,119
+Id_Unidad,1811,120
+Id_Unidad,188,121
+Id_Unidad,1904,122
+Id_Unidad,1932,123
+Id_Unidad,194,124
+Id_Unidad,1942,125
+Id_Unidad,1944,126
+Id_Unidad,1959,127
+Id_Unidad,1962,128
+Id_Unidad,2,129
+Id_Unidad,200,130
+Id_Unidad,2011,131
+Id_Unidad,2042,132
+Id_Unidad,2046,133
+Id_Unidad,2047,134
+Id_Unidad,2048,135
+Id_Unidad,2054,136
+Id_Unidad,2087,137
+Id_Unidad,2092,138
+Id_Unidad,2094,139
+Id_Unidad,2097,140
+Id_Unidad,21,141
+Id_Unidad,2118,142
+Id_Unidad,22,143
+Id_Unidad,232,144
+Id_Unidad,233,145
+Id_Unidad,234,146
+Id_Unidad,235,147
+Id_Unidad,236,148
+Id_Unidad,239,149
+Id_Unidad,24,150
+Id_Unidad,240,151
+Id_Unidad,241,152
+Id_Unidad,25,153
+Id_Unidad,250,154
+Id_Unidad,259,155
+Id_Unidad,26,156
+Id_Unidad,261,157
+Id_Unidad,263,158
+Id_Unidad,266,159
+Id_Unidad,267,160
+Id_Unidad,320,161
+Id_Unidad,324,162
+Id_Unidad,342,163
+Id_Unidad,346,164
+Id_Unidad,347,165
+Id_Unidad,350,166
+Id_Unidad,355,167
+Id_Unidad,388,168
+Id_Unidad,389,169
+Id_Unidad,391,170
+Id_Unidad,392,171
+Id_Unidad,393,172
+Id_Unidad,407,173
+Id_Unidad,444,174
+Id_Unidad,445,175
+Id_Unidad,447,176
+Id_Unidad,448,177
+Id_Unidad,493,178
+Id_Unidad,495,179
+Id_Unidad,496,180
+Id_Unidad,498,181
+Id_Unidad,5,182
+Id_Unidad,505,183
+Id_Unidad,507,184
+Id_Unidad,508,185
+Id_Unidad,510,186
+Id_Unidad,511,187
+Id_Unidad,514,188
+Id_Unidad,571,189
+Id_Unidad,572,190
+Id_Unidad,573,191
+Id_Unidad,574,192
+Id_Unidad,578,193
+Id_Unidad,580,194
+Id_Unidad,593,195
+Id_Unidad,597,196
+Id_Unidad,598,197
+Id_Unidad,601,198
+Id_Unidad,603,199
+Id_Unidad,626,200
+Id_Unidad,627,201
+Id_Unidad,630,202
+Id_Unidad,632,203
+Id_Unidad,639,204
+Id_Unidad,642,205
+Id_Unidad,643,206
+Id_Unidad,692,207
+Id_Unidad,693,208
+Id_Unidad,698,209
+Id_Unidad,71,210
+Id_Unidad,724,211
+Id_Unidad,726,212
+Id_Unidad,73,213
+Id_Unidad,731,214
+Id_Unidad,733,215
+Id_Unidad,749,216
+Id_Unidad,750,217
+Id_Unidad,751,218
+Id_Unidad,752,219
+Id_Unidad,753,220
+Id_Unidad,755,221
+Id_Unidad,757,222
+Id_Unidad,76,223
+Id_Unidad,760,224
+Id_Unidad,763,225
+Id_Unidad,767,226
+Id_Unidad,771,227
+Id_Unidad,786,228
+Id_Unidad,790,229
+Id_Unidad,796,230
+Id_Unidad,799,231
+Id_Unidad,800,232
+Id_Unidad,819,233
+Id_Unidad,826,234
+Id_Unidad,898,235
+Id_Unidad,899,236
+Id_Unidad,900,237
+Id_Unidad,902,238
+Id_Unidad,905,239
+Id_Unidad,906,240
+Id_Unidad,915,241
+Id_Unidad,94,242
+Id_Unidad,958,243
+Id_Unidad,960,244
+Id_Unidad,961,245
+Id_Unidad,964,246
+Id_Unidad,999,247
+fecha_d,12,0
+fecha_d,13,1
+fecha_d,14,2
+fecha_d,15,3
+fecha_d,16,4
+fecha_d,19,5
+fecha_d,20,6
+fecha_d,21,7
+fecha_d,22,8
+fecha_d,23,9
+hr_ini_h,10,0
+hr_ini_h,11,1
+hr_ini_h,12,2
+hr_ini_h,13,3
+hr_ini_h,14,4
+hr_ini_h,15,5
+hr_ini_h,16,6
+hr_ini_h,17,7
+hr_ini_h,18,8
+hr_ini_h,19,9
+hr_ini_h,20,10
+hr_ini_h,7,11
+hr_ini_h,8,12
+hr_ini_h,9,13
+hr_ini_m,0,0
+hr_ini_m,1,1
+hr_ini_m,10,2
+hr_ini_m,11,3
+hr_ini_m,12,4
+hr_ini_m,13,5
+hr_ini_m,14,6
+hr_ini_m,15,7
+hr_ini_m,16,8
+hr_ini_m,17,9
+hr_ini_m,18,10
+hr_ini_m,19,11
+hr_ini_m,2,12
+hr_ini_m,20,13
+hr_ini_m,21,14
+hr_ini_m,22,15
+hr_ini_m,23,16
+hr_ini_m,24,17
+hr_ini_m,25,18
+hr_ini_m,26,19
+hr_ini_m,27,20
+hr_ini_m,28,21
+hr_ini_m,29,22
+hr_ini_m,3,23
+hr_ini_m,30,24
+hr_ini_m,31,25
+hr_ini_m,32,26
+hr_ini_m,33,27
+hr_ini_m,34,28
+hr_ini_m,35,29
+hr_ini_m,36,30
+hr_ini_m,37,31
+hr_ini_m,38,32
+hr_ini_m,39,33
+hr_ini_m,4,34
+hr_ini_m,40,35
+hr_ini_m,41,36
+hr_ini_m,42,37
+hr_ini_m,43,38
+hr_ini_m,44,39
+hr_ini_m,45,40
+hr_ini_m,46,41
+hr_ini_m,47,42
+hr_ini_m,48,43
+hr_ini_m,49,44
+hr_ini_m,5,45
+hr_ini_m,50,46
+hr_ini_m,51,47
+hr_ini_m,52,48
+hr_ini_m,53,49
+hr_ini_m,54,50
+hr_ini_m,55,51
+hr_ini_m,56,52
+hr_ini_m,57,53
+hr_ini_m,58,54
+hr_ini_m,59,55
+hr_ini_m,6,56
+hr_ini_m,7,57
+hr_ini_m,8,58
+hr_ini_m,9,59
+hr_fin_h,10,0
+hr_fin_h,11,1
+hr_fin_h,12,2
+hr_fin_h,13,3
+hr_fin_h,14,4
+hr_fin_h,15,5
+hr_fin_h,16,6
+hr_fin_h,17,7
+hr_fin_h,18,8
+hr_fin_h,19,9
+hr_fin_h,20,10
+hr_fin_h,7,11
+hr_fin_h,8,12
+hr_fin_h,9,13
+hr_fin_m,0,0
+hr_fin_m,1,1
+hr_fin_m,10,2
+hr_fin_m,11,3
+hr_fin_m,12,4
+hr_fin_m,13,5
+hr_fin_m,14,6
+hr_fin_m,15,7
+hr_fin_m,16,8
+hr_fin_m,17,9
+hr_fin_m,18,10
+hr_fin_m,19,11
+hr_fin_m,2,12
+hr_fin_m,20,13
+hr_fin_m,21,14
+hr_fin_m,22,15
+hr_fin_m,23,16
+hr_fin_m,24,17
+hr_fin_m,25,18
+hr_fin_m,26,19
+hr_fin_m,27,20
+hr_fin_m,28,21
+hr_fin_m,29,22
+hr_fin_m,3,23
+hr_fin_m,30,24
+hr_fin_m,31,25
+hr_fin_m,32,26
+hr_fin_m,33,27
+hr_fin_m,34,28
+hr_fin_m,35,29
+hr_fin_m,36,30
+hr_fin_m,37,31
+hr_fin_m,38,32
+hr_fin_m,39,33
+hr_fin_m,4,34
+hr_fin_m,40,35
+hr_fin_m,41,36
+hr_fin_m,42,37
+hr_fin_m,43,38
+hr_fin_m,44,39
+hr_fin_m,45,40
+hr_fin_m,46,41
+hr_fin_m,47,42
+hr_fin_m,48,43
+hr_fin_m,49,44
+hr_fin_m,5,45
+hr_fin_m,50,46
+hr_fin_m,51,47
+hr_fin_m,52,48
+hr_fin_m,53,49
+hr_fin_m,54,50
+hr_fin_m,55,51
+hr_fin_m,56,52
+hr_fin_m,57,53
+hr_fin_m,58,54
+hr_fin_m,59,55
+hr_fin_m,6,56
+hr_fin_m,7,57
+hr_fin_m,8,58
+hr_fin_m,9,59
+servatn,Consulta dental,0
+servatn,Consulta medica,1
+servatn,Medicina preventiva (PrevenIMSS),2
+tipopac,Mayor de edad,0
+tipopac,Pediatrico,1
+tipopac,Persona con alguna discapacidad mental,2
+sat1,Insatisfecho(a),0
+sat1,Muy insatisfecho(a),1
+sat1,Muy satisfecho(a),2
+sat1,NaN,3
+sat1,Ni satisfecho(a) ni insatisfecho(a),4
+sat1,Satisfecho(a),5
+sat1_mot_1, ,0
+sat1_mot_1,Falta de medicamentos,1
+sat1_mot_1,La falta de personal/medicos/especialistas,2
+sat1_mot_1,La limpieza en general de la unidad,3
+sat1_mot_1,Las instalaciones,4
+sat1_mot_1,Los tiempos de espera para consulta,5
+sat1_mot_1,Los tiempos de espera para obtener citas,6
+sat1_mot_1,Los tiempos de espera para resultados de estudios,7
+sat1_mot_1,Los tiempos de espera para tramites,8
+sat1_mot_1,Los viaticos son insuficientes,9
+sat1_mot_1,Mal servicio de ambulancias,10
+sat1_mot_1,Mal servicio en archivo,11
+sat1_mot_1,Mal servicio en farmacia,12
+sat1_mot_1,Mal servicio en general,13
+sat1_mot_1,Mal servicio en laboratorio,14
+sat1_mot_1,Mal trato,15
+sat1_mot_1,Mala atencion medica,16
+sat1_mot_1,Mala calidad en el servicio de urgencias,17
+sat1_mot_1,NaN,18
+sat1_mot_2, ,0
+sat1_mot_2,Falta de medicamentos,1
+sat1_mot_2,La falta de personal/medicos/especialistas,2
+sat1_mot_2,La limpieza en general de la unidad,3
+sat1_mot_2,Las instalaciones,4
+sat1_mot_2,Los tiempos de espera para consulta,5
+sat1_mot_2,Los tiempos de espera para obtener citas,6
+sat1_mot_2,Los tiempos de espera para resultados de estudios,7
+sat1_mot_2,Los tiempos de espera para tramites,8
+sat1_mot_2,Mal servicio de ambulancias,9
+sat1_mot_2,Mal servicio en archivo,10
+sat1_mot_2,Mal servicio en farmacia,11
+sat1_mot_2,Mal servicio en general,12
+sat1_mot_2,Mal servicio en laboratorio,13
+sat1_mot_2,Mal trato,14
+sat1_mot_2,Mala atencion medica,15
+sat1_mot_2,Mala calidad en el servicio de urgencias,16
+sat1_mot_2,Mala comunicacion,17
+sat1_mot_3, ,0
+sat1_mot_3,Falta de medicamentos,1
+sat1_mot_3,Falta mas prevenimss,2
+sat1_mot_3,La falta de personal/medicos/especialistas,3
+sat1_mot_3,La limpieza en general de la unidad,4
+sat1_mot_3,Las instalaciones,5
+sat1_mot_3,Los tiempos de espera para consulta,6
+sat1_mot_3,Los tiempos de espera para obtener citas,7
+sat1_mot_3,Los tiempos de espera para resultados de estudios,8
+sat1_mot_3,Los tiempos de espera para tramites,9
+sat1_mot_3,Mal servicio de ambulancias,10
+sat1_mot_3,Mal servicio en archivo,11
+sat1_mot_3,Mal servicio en farmacia,12
+sat1_mot_3,Mal servicio en general,13
+sat1_mot_3,Mal servicio en laboratorio,14
+sat1_mot_3,Mal trato,15
+sat1_mot_3,Mala atencion medica,16
+sat1_mot_3,Mala calidad en el servicio de urgencias,17
+sat3,Insatisfecho(a),0
+sat3,Muy insatisfecho(a),1
+sat3,Muy satisfecho(a),2
+sat3,NaN,3
+sat3,Ni satisfecho(a) ni insatisfecho(a),4
+sat3,Satisfecho(a),5
+btratou,Bueno,0
+btratou,Excelente,1
+btratou,Malo,2
+btratou,NaN,3
+btratou,Pesimo,4
+btratou,Regular,5
+btratou_mot_1, ,0
+btratou_mot_1,Excesos de tiempos de espera,1
+btratou_mot_1,Le hablaron de manera grosera o prepotente,2
+btratou_mot_1,NaN,3
+btratou_mot_1,No le dieron sus medicamentos,4
+btratou_mot_1,No le proporcionaron el servicio que usted requeria,5
+btratou_mot_1,No le pusieron atencion mientras les hablaba,6
+btratou_mot_1,No lo saludaron,7
+btratou_mot_2, ,0
+btratou_mot_2,Excesos de tiempos de espera,1
+btratou_mot_2,Le hablaron de manera grosera o prepotente,2
+btratou_mot_2,No le dieron sus medicamentos,3
+btratou_mot_2,No le proporcionaron el servicio que usted requeria,4
+btratou_mot_2,No le pusieron atencion mientras les hablaba,5
+btratou_mot_2,No lo saludaron,6
+btratou_mot_3, ,0
+btratou_mot_3,Excesos de tiempos de espera,1
+btratou_mot_3,Le hablaron de manera grosera o prepotente,2
+btratou_mot_3,No le dieron sus medicamentos,3
+btratou_mot_3,No le proporcionaron el servicio que usted requeria,4
+btratou_mot_3,No le pusieron atencion mientras les hablaba,5
+btratou_mot_3,No lo saludaron,6
+calfatna_a,NaN,0
+calfatna_a,No,1
+calfatna_a,Si,2
+calfatnb_a, ,0
+calfatnb_a,2,1
+calfatnb_a,3,2
+calfatnb_a,4,3
+calfatnb_a,5,4
+calfatnb_a,6,5
+calfatnb_a,7,6
+calfatnb_a,8,7
+calfatnb_a,9,8
+calfatnb_a,Excelente,9
+calfatnb_a,NaN,10
+calfatnb_a,Pesimo,11
+calfatna_c,NaN,0
+calfatna_c,No,1
+calfatna_c,Si,2
+calfatnb_c, ,0
+calfatnb_c,2,1
+calfatnb_c,3,2
+calfatnb_c,4,3
+calfatnb_c,5,4
+calfatnb_c,6,5
+calfatnb_c,7,6
+calfatnb_c,8,7
+calfatnb_c,9,8
+calfatnb_c,Excelente,9
+calfatnb_c,NaN,10
+calfatnb_c,Pesimo,11
+calfatna_e,NaN,0
+calfatna_e,No,1
+calfatna_e,Si,2
+calfatnb_e, ,0
+calfatnb_e,2,1
+calfatnb_e,3,2
+calfatnb_e,4,3
+calfatnb_e,5,4
+calfatnb_e,6,5
+calfatnb_e,7,6
+calfatnb_e,8,7
+calfatnb_e,9,8
+calfatnb_e,Excelente,9
+calfatnb_e,NaN,10
+calfatnb_e,Pesimo,11
+calfatna_g,NaN,0
+calfatna_g,No,1
+calfatna_g,Si,2
+calfatnb_g, ,0
+calfatnb_g,2,1
+calfatnb_g,3,2
+calfatnb_g,4,3
+calfatnb_g,5,4
+calfatnb_g,6,5
+calfatnb_g,7,6
+calfatnb_g,8,7
+calfatnb_g,9,8
+calfatnb_g,Excelente,9
+calfatnb_g,NaN,10
+calfatnb_g,Pesimo,11
+calfatna_h,NaN,0
+calfatna_h,No,1
+calfatna_h,Si,2
+calfatnb_h, ,0
+calfatnb_h,2,1
+calfatnb_h,3,2
+calfatnb_h,4,3
+calfatnb_h,5,4
+calfatnb_h,6,5
+calfatnb_h,7,6
+calfatnb_h,8,7
+calfatnb_h,9,8
+calfatnb_h,Excelente,9
+calfatnb_h,NaN,10
+calfatnb_h,Pesimo,11
+calfatna_n,NaN,0
+calfatna_n,No,1
+calfatna_n,Si,2
+calfatnb_n, ,0
+calfatnb_n,2,1
+calfatnb_n,3,2
+calfatnb_n,4,3
+calfatnb_n,5,4
+calfatnb_n,6,5
+calfatnb_n,7,6
+calfatnb_n,8,7
+calfatnb_n,9,8
+calfatnb_n,Excelente,9
+calfatnb_n,NaN,10
+calfatnb_n,Pesimo,11
+calfatna_k,NaN,0
+calfatna_k,No,1
+calfatna_k,Si,2
+calfatnb_k, ,0
+calfatnb_k,2,1
+calfatnb_k,3,2
+calfatnb_k,4,3
+calfatnb_k,5,4
+calfatnb_k,6,5
+calfatnb_k,7,6
+calfatnb_k,8,7
+calfatnb_k,9,8
+calfatnb_k,Excelente,9
+calfatnb_k,NaN,10
+calfatnb_k,Pesimo,11
+calfatna_l,NaN,0
+calfatna_l,No,1
+calfatna_l,Si,2
+calfatnb_l, ,0
+calfatnb_l,2,1
+calfatnb_l,3,2
+calfatnb_l,4,3
+calfatnb_l,5,4
+calfatnb_l,6,5
+calfatnb_l,7,6
+calfatnb_l,8,7
+calfatnb_l,9,8
+calfatnb_l,Excelente,9
+calfatnb_l,NaN,10
+calfatnb_l,Pesimo,11
+calfatna_j,NaN,0
+calfatna_j,No,1
+calfatna_j,Si,2
+calfatnb_j, ,0
+calfatnb_j,2,1
+calfatnb_j,3,2
+calfatnb_j,4,3
+calfatnb_j,5,4
+calfatnb_j,6,5
+calfatnb_j,7,6
+calfatnb_j,8,7
+calfatnb_j,9,8
+calfatnb_j,Excelente,9
+calfatnb_j,NaN,10
+calfatnb_j,Pesimo,11
+calfatna_m,NaN,0
+calfatna_m,No,1
+calfatna_m,Si,2
+calfatnb_m, ,0
+calfatnb_m,2,1
+calfatnb_m,3,2
+calfatnb_m,4,3
+calfatnb_m,5,4
+calfatnb_m,6,5
+calfatnb_m,7,6
+calfatnb_m,8,7
+calfatnb_m,9,8
+calfatnb_m,Excelente,9
+calfatnb_m,NaN,10
+calfatnb_m,Pesimo,11
+calfatna_o,NaN,0
+calfatna_o,No,1
+calfatna_o,Si,2
+calfatnb_o, ,0
+calfatnb_o,2,1
+calfatnb_o,3,2
+calfatnb_o,4,3
+calfatnb_o,5,4
+calfatnb_o,6,5
+calfatnb_o,7,6
+calfatnb_o,8,7
+calfatnb_o,9,8
+calfatnb_o,Excelente,9
+calfatnb_o,NaN,10
+calfatnb_o,Pesimo,11
+calfatna_q,NaN,0
+calfatna_q,No,1
+calfatna_q,Si,2
+calfatnb_q, ,0
+calfatnb_q,2,1
+calfatnb_q,3,2
+calfatnb_q,4,3
+calfatnb_q,5,4
+calfatnb_q,6,5
+calfatnb_q,7,6
+calfatnb_q,8,7
+calfatnb_q,9,8
+calfatnb_q,Excelente,9
+calfatnb_q,NaN,10
+calfatnb_q,Pesimo,11
+calfatna_f,NaN,0
+calfatna_f,No,1
+calfatna_f,Si,2
+calfatnb_f, ,0
+calfatnb_f,2,1
+calfatnb_f,3,2
+calfatnb_f,5,3
+calfatnb_f,6,4
+calfatnb_f,7,5
+calfatnb_f,8,6
+calfatnb_f,9,7
+calfatnb_f,Excelente,8
+calfatnb_f,NaN,9
+calfatnb_f,Pesimo,10
+mottratot_1, ,0
+mottratot_1,Hizo algun gesto o lo ignoro en algun momento,1
+mottratot_1,Le contesto de manera grosera o prepotente,2
+mottratot_1,No le proporciono la orientacion o el apoyo que usted requeria,3
+mottratot_1,No le puso atencion mientras usted le hacia una pregunta,4
+mottratot_2, ,0
+mottratot_2,Hizo algun gesto o lo ignoro en algun momento,1
+mottratot_2,No le proporciono la orientacion o el apoyo que usted requeria,2
+mottratot_3, ,0
+mottratot_3,Hizo algun gesto o lo ignoro en algun momento,1
+mottratot_3,Le contesto de manera grosera o prepotente,2
+mottratot_3,No le proporciono la orientacion o el apoyo que usted requeria,3
+mottratot_3,No le puso atencion mientras usted le hacia una pregunta,4
+mottratot_3,No lo saludo,5
+mottratot_4, ,0
+mottratot_4,No le proporciono la orientacion o el apoyo que usted requeria,1
+mottratot_4,No le puso atencion mientras usted le hacia una pregunta,2
+mottratot_4,No lo saludo,3
+mottratot_5, ,0
+mottratot_5,Hizo algun gesto o lo ignoro en algun momento,1
+mottratot_5,No le puso atencion mientras usted le hacia una pregunta,2
+mottratot_5,No lo saludo,3
+escuchar,NaN,0
+escuchar,No,1
+escuchar,Si,2
+responder,NaN,0
+responder,No,1
+responder,Si,2
+amable,NaN,0
+amable,No,1
+amable,Si,2
+tiemuv,1,0
+tiemuv,10,1
+tiemuv,102,2
+tiemuv,105,3
+tiemuv,11,4
+tiemuv,110,5
+tiemuv,111,6
+tiemuv,116,7
+tiemuv,119,8
+tiemuv,12,9
+tiemuv,120,10
+tiemuv,126,11
+tiemuv,127,12
+tiemuv,128,13
+tiemuv,13,14
+tiemuv,135,15
+tiemuv,139,16
+tiemuv,14,17
+tiemuv,146,18
+tiemuv,15,19
+tiemuv,150,20
+tiemuv,156,21
+tiemuv,158,22
+tiemuv,16,23
+tiemuv,160,24
+tiemuv,17,25
+tiemuv,174,26
+tiemuv,176,27
+tiemuv,18,28
+tiemuv,180,29
+tiemuv,185,30
+tiemuv,19,31
+tiemuv,2,32
+tiemuv,20,33
+tiemuv,21,34
+tiemuv,210,35
+tiemuv,22,36
+tiemuv,222,37
+tiemuv,224,38
+tiemuv,23,39
+tiemuv,24,40
+tiemuv,240,41
+tiemuv,241,42
+tiemuv,242,43
+tiemuv,244,44
+tiemuv,245,45
+tiemuv,246,46
+tiemuv,247,47
+tiemuv,25,48
+tiemuv,250,49
+tiemuv,254,50
+tiemuv,255,51
+tiemuv,26,52
+tiemuv,264,53
+tiemuv,27,54
+tiemuv,270,55
+tiemuv,278,56
+tiemuv,28,57
+tiemuv,29,58
+tiemuv,290,59
+tiemuv,3,60
+tiemuv,30,61
+tiemuv,300,62
+tiemuv,31,63
+tiemuv,32,64
+tiemuv,33,65
+tiemuv,330,66
+tiemuv,34,67
+tiemuv,35,68
+tiemuv,36,69
+tiemuv,360,70
+tiemuv,365,71
+tiemuv,368,72
+tiemuv,37,73
+tiemuv,38,74
+tiemuv,39,75
+tiemuv,4,76
+tiemuv,40,77
+tiemuv,400,78
+tiemuv,41,79
+tiemuv,42,80
+tiemuv,44,81
+tiemuv,45,82
+tiemuv,450,83
+tiemuv,46,84
+tiemuv,47,85
+tiemuv,48,86
+tiemuv,480,87
+tiemuv,49,88
+tiemuv,5,89
+tiemuv,50,90
+tiemuv,51,91
+tiemuv,540,92
+tiemuv,56,93
+tiemuv,57,94
+tiemuv,58,95
+tiemuv,6,96
+tiemuv,60,97
+tiemuv,600,98
+tiemuv,61,99
+tiemuv,62,100
+tiemuv,63,101
+tiemuv,64,102
+tiemuv,66,103
+tiemuv,660,104
+tiemuv,67,105
+tiemuv,68,106
+tiemuv,7,107
+tiemuv,70,108
+tiemuv,71,109
+tiemuv,720,110
+tiemuv,74,111
+tiemuv,75,112
+tiemuv,76,113
+tiemuv,8,114
+tiemuv,80,115
+tiemuv,81,116
+tiemuv,84,117
+tiemuv,86,118
+tiemuv,88,119
+tiemuv,9,120
+tiemuv,90,121
+tiemuv,94,122
+tiemuv,95,123
+tiemuv,98,124
+tiemuv,NO APLICA es la primera vez que acude a esta unidad,125
+tiemuv,NO SABE NO RESPONDE,126
+mejoratratou, ,0
+mejoratratou,Igual,1
+mejoratratou,Mejor,2
+mejoratratou,NaN,3
+mejoratratou,Peor,4
+probsal, ,0
+probsal,Accidente laboral y riesgo de trabajo e incapacidades,1
+probsal,Alergias,2
+probsal,Anemia,3
+probsal,Artropatias,4
+probsal,"Bronquitis cronica y la no especificada, enfisema y asma",5
+probsal,"Cancer, tumores y quistes",6
+probsal,"Cirugias, tratamiento y seguimiento / Pre y post cirugia",7
+probsal,Colesterol,8
+probsal,Control de peso u obesidad,9
+probsal,Control o seguimiento del nino sano,10
+probsal,"Control, supervision o seguimiento de personas sanas",11
+probsal,Covid-19,12
+probsal,Curaciones,13
+probsal,Dengue,14
+probsal,Desvanecimiento o desmayo repentino,15
+probsal,Diabetes mellitus o pie diabetico,16
+probsal,Discapacidad,17
+probsal,Dolor / problemas de rodilla,18
+probsal,Dolor abdominal,19
+probsal,Dolor de ciatica,20
+probsal,Dorsopatias,21
+probsal,Embarazo,22
+probsal,Enfermedad cronica,23
+probsal,Enfermedades Infecciosas Intestinales,24
+probsal,Enfermedades de la glandula tiroides,25
+probsal,Enfermedades de la piel y del tejido subcutaneo,26
+probsal,Enfermedades del corazon,27
+probsal,Epilepsia,28
+probsal,Estudios laboratorio/Rayos x,29
+probsal,Fiebre,30
+probsal,Fisioterapia y dolor muscular,31
+probsal,Gastritis y duodenitis,32
+probsal,Hernias,33
+probsal,Infeccion de las vias urinarias,34
+probsal,Infecciones respiratorias agudas,35
+probsal,"Infectologia, bacterias y virus",36
+probsal,Influenza,37
+probsal,Lupus,38
+probsal,"Malestar en la cabeza, neurocerebral",39
+probsal,NaN,40
+probsal,"Odontologia, tratamiento y seguimiento",41
+probsal,Ortopedia/Osteoporosis y tejido oseo,42
+probsal,Otro,43
+probsal,"Presencia de astenia o adinamia (debilidad, fatiga general o ausencia total de fuerza fisica",44
+probsal,Problemas de la prostata,45
+probsal,Problemas de oido,46
+probsal,"Problemas en la sangre, varices y hemorragias",47
+probsal,Problemas en la vista,48
+probsal,Problemas ginecologicos (patologias en los organos reproductores femeninos),49
+probsal,Problemas renales / Rinones dolor e insuficiencia,50
+probsal,Quemaduras,51
+probsal,"Rinitis, rinofaringitis y faringitis cronicas",52
+probsal,Seguimiento a enfermedades/Diagnostico/Valoraciones,53
+probsal,Seguimiento post parto o cesarea (Puerperio),54
+probsal,Sindrome del colon irritable y otros trastornos funcionales del intestino,55
+probsal,Trastornos de los tejidos blandos,56
+probsal,Trastornos del metabolismo de las lipoproteinas y otras lipidemias,57
+probsal,Trastornos mentales y del comportamiento,58
+probsal,"Traumatismos, fracturas, luxaciones o esguinces",59
+probsal,Urgencias,60
+citapre,NaN,0
+citapre,No,1
+citapre,Si,2
+diascita,+1 año,0
+diascita,1 año,1
+diascita,1 mes,2
+diascita,1 semana,3
+diascita,3 meses,4
+diascita,6 meses,5
+antescita,+2 años,0
+antescita,1 año,1
+antescita,1 mes,2
+antescita,1 semana,3
+antescita,2 años,4
+antescita,3 meses,5
+antescita,6 meses,6
+motivoant, ,0
+motivoant,Asi lo indica el personal del IMSS,1
+motivoant,Me gusta llegar antes a mis citas del IMSS,2
+motivoant,Me sentia muy mal,3
+motivoant,NaN,4
+motivoant,Para poder pasar a otra area,5
+motivoant,Para que no se cancele,6
+motivoant,Por cercania de la clinica,7
+motivoant,Porque no lo planeo,8
+motivoant,Porque no tenia cita y no dan muchas fichas,9
+motivoant,Porque quisiera pasar antes de mi hora de cita,10
+motivoant,Previendo algun problema de traslado,11
+hrcita, ,0
+hrcita,NaN,1
+hrcita,"No, antes de la hora senalada",2
+hrcita,"No, despues de la hora senalada",3
+hrcita,Si,4
+tmesphoci,+1 año,0
+tmesphoci,1 año,1
+tmesphoci,10,2
+tmesphoci,120,3
+tmesphoci,20,4
+tmesphoci,30,5
+tmesphoci,60,6
+satiemhoci, ,0
+satiemhoci,Insatisfecho(a),1
+satiemhoci,Muy insatisfecho(a),2
+satiemhoci,Muy satisfecho(a),3
+satiemhoci,NaN,4
+satiemhoci,Ni satisfecho(a) ni insatisfecho(a),5
+satiemhoci,Satisfecho(a),6
+durasis_c, ,0
+durasis_c,NaN,1
+durasis_c,No,2
+durasis_c,Si,3
+preosad,NaN,0
+preosad,No,1
+preosad,Si,2
+tratocomf,NaN,0
+tratocomf,No,1
+tratocomf,Si,2
+comincomcons,NaN,0
+comincomcons,No,1
+comincomcons,Si,2
+consdesp,NaN,0
+consdesp,No,1
+consdesp,Si,2
+filtrosaux1,NaN,0
+filtrosaux1,No,1
+filtrosaux1,No aplica,2
+filtrosaux1,Si,3
+temsad1, ,0
+temsad1,1,1
+temsad1,10,2
+temsad1,100,3
+temsad1,12,4
+temsad1,120,5
+temsad1,13,6
+temsad1,14,7
+temsad1,140,8
+temsad1,15,9
+temsad1,150,10
+temsad1,16,11
+temsad1,160,12
+temsad1,17,13
+temsad1,18,14
+temsad1,19,15
+temsad1,2,16
+temsad1,20,17
+temsad1,200,18
+temsad1,21,19
+temsad1,22,20
+temsad1,23,21
+temsad1,240,22
+temsad1,25,23
+temsad1,26,24
+temsad1,27,25
+temsad1,28,26
+temsad1,29,27
+temsad1,3,28
+temsad1,30,29
+temsad1,300,30
+temsad1,35,31
+temsad1,380,32
+temsad1,4,33
+temsad1,40,34
+temsad1,45,35
+temsad1,5,36
+temsad1,50,37
+temsad1,6,38
+temsad1,60,39
+temsad1,7,40
+temsad1,8,41
+temsad1,80,42
+temsad1,9,43
+temsad1,90,44
+temsad1,NaN,45
+temsad1,Se los programaron de acuerdo a su cita medica,46
+filtrosaux2,NaN,0
+filtrosaux2,No,1
+filtrosaux2,No aplica,2
+filtrosaux2,Si,3
+temsad2, ,0
+temsad2,1,1
+temsad2,10,2
+temsad2,100,3
+temsad2,11,4
+temsad2,12,5
+temsad2,120,6
+temsad2,140,7
+temsad2,15,8
+temsad2,16,9
+temsad2,160,10
+temsad2,17,11
+temsad2,2,12
+temsad2,20,13
+temsad2,200,14
+temsad2,21,15
+temsad2,22,16
+temsad2,220,17
+temsad2,240,18
+temsad2,25,19
+temsad2,28,20
+temsad2,3,21
+temsad2,30,22
+temsad2,35,23
+temsad2,360,24
+temsad2,4,25
+temsad2,40,26
+temsad2,45,27
+temsad2,480,28
+temsad2,5,29
+temsad2,6,30
+temsad2,60,31
+temsad2,7,32
+temsad2,70,33
+temsad2,8,34
+temsad2,80,35
+temsad2,9,36
+temsad2,NaN,37
+temsad2,Se los programaron de acuerdo a su cita medica,38
+recmedhoy,NaN,0
+recmedhoy,No,1
+recmedhoy,Si,2
+filtrofarm2, ,0
+filtrofarm2,NaN,1
+filtrofarm2,No,2
+filtrofarm2,Si,3
+totmed, ,0
+totmed,Algunos,1
+totmed,NaN,2
+totmed,Ninguno,3
+totmed,Todos,4
+motnosurt_1, ,0
+motnosurt_1,NaN,1
+motnosurt_1,No hay sistema,2
+motnosurt_1,"Porque falta la autorizacion del medico familiar, especialista /clinica, hospital",3
+motnosurt_1,Porque la farmacia estaba cerrada,4
+motnosurt_1,Porque me falta un tramite administrativo,5
+motnosurt_1,Porque no tenian el medicamento,6
+motnosurt_2, ,0
+motnosurt_2,No hay sistema,1
+motnosurt_2,"Porque falta la autorizacion del medico familiar, especialista /clinica, hospital",2
+motnosurt_2,Porque la farmacia estaba cerrada,3
+motnosurt_2,Porque me falta un tramite administrativo,4
+motnosurt_2,Porque no tenian el medicamento,5
+motnosurt_3, ,0
+motnosurt_3,"Porque falta la autorizacion del medico familiar, especialista /clinica, hospital",1
+motnosurt_3,Porque me falta un tramite administrativo,2
+motnosurt_3,Porque no tenian el medicamento,3
+acnomed_1, ,0
+acnomed_1,Lo(s) comprara en una farmacia privada y lo(s) pagara de su bolsillo,1
+acnomed_1,Lo(s) conseguira en la farmacia de otra unidad,2
+acnomed_1,NaN,3
+acnomed_1,No lo(s) comprara/suspendera el tratamiento,4
+acnomed_1,Regresara a buscarlo(s) en la farmacia de la misma unidad,5
+acnomed_1,Regresara a que el personal medico le recete otro medicamento,6
+acnomed_2, ,0
+acnomed_2,Lo(s) comprara en una farmacia privada y lo(s) pagara de su bolsillo,1
+acnomed_2,Lo(s) conseguira en la farmacia de otra unidad,2
+acnomed_2,No lo(s) comprara/suspendera el tratamiento,3
+acnomed_2,Regresara a buscarlo(s) en la farmacia de la misma unidad,4
+acnomed_2,Regresara a que el personal medico le recete otro medicamento,5
+acnomed_3, ,0
+acnomed_3,Lo(s) comprara en una farmacia privada y lo(s) pagara de su bolsillo,1
+acnomed_3,Lo(s) conseguira en la farmacia de otra unidad,2
+acnomed_3,No lo(s) comprara/suspendera el tratamiento,3
+acnomed_3,Regresara a que el personal medico le recete otro medicamento,4
+calfinmb_f,2,0
+calfinmb_f,3,1
+calfinmb_f,4,2
+calfinmb_f,5,3
+calfinmb_f,6,4
+calfinmb_f,7,5
+calfinmb_f,8,6
+calfinmb_f,9,7
+calfinmb_f,Excelente,8
+calfinmb_f,NaN,9
+calfinmb_f,Pesimo,10
+calfinmb_c3,2,0
+calfinmb_c3,3,1
+calfinmb_c3,4,2
+calfinmb_c3,5,3
+calfinmb_c3,6,4
+calfinmb_c3,7,5
+calfinmb_c3,8,6
+calfinmb_c3,9,7
+calfinmb_c3,Excelente,8
+calfinmb_c3,NaN,9
+calfinmb_c3,Pesimo,10
+calfinmb_c2,2,0
+calfinmb_c2,3,1
+calfinmb_c2,4,2
+calfinmb_c2,5,3
+calfinmb_c2,6,4
+calfinmb_c2,7,5
+calfinmb_c2,8,6
+calfinmb_c2,9,7
+calfinmb_c2,Excelente,8
+calfinmb_c2,NaN,9
+calfinmb_c2,Pesimo,10
+calfinmb_a1,2,0
+calfinmb_a1,3,1
+calfinmb_a1,4,2
+calfinmb_a1,5,3
+calfinmb_a1,6,4
+calfinmb_a1,7,5
+calfinmb_a1,8,6
+calfinmb_a1,9,7
+calfinmb_a1,Excelente,8
+calfinmb_a1,NaN,9
+calfinmb_a1,Pesimo,10
+calfinmb_i,2,0
+calfinmb_i,3,1
+calfinmb_i,4,2
+calfinmb_i,5,3
+calfinmb_i,6,4
+calfinmb_i,7,5
+calfinmb_i,8,6
+calfinmb_i,9,7
+calfinmb_i,Excelente,8
+calfinmb_i,NaN,9
+calfinmb_i,Pesimo,10
+calfinmb_j,2,0
+calfinmb_j,3,1
+calfinmb_j,4,2
+calfinmb_j,5,3
+calfinmb_j,6,4
+calfinmb_j,7,5
+calfinmb_j,8,6
+calfinmb_j,9,7
+calfinmb_j,Excelente,8
+calfinmb_j,NaN,9
+calfinmb_j,Pesimo,10
+calfinmb_k,2,0
+calfinmb_k,3,1
+calfinmb_k,4,2
+calfinmb_k,5,3
+calfinmb_k,6,4
+calfinmb_k,7,5
+calfinmb_k,8,6
+calfinmb_k,9,7
+calfinmb_k,Excelente,8
+calfinmb_k,NaN,9
+calfinmb_k,No aplica,10
+calfinmb_k,Pesimo,11
+calfinmb_l,2,0
+calfinmb_l,3,1
+calfinmb_l,4,2
+calfinmb_l,5,3
+calfinmb_l,6,4
+calfinmb_l,7,5
+calfinmb_l,8,6
+calfinmb_l,9,7
+calfinmb_l,Excelente,8
+calfinmb_l,NaN,9
+calfinmb_l,No aplica,10
+calfinmb_l,Pesimo,11
+calfinmb_b1,2,0
+calfinmb_b1,3,1
+calfinmb_b1,4,2
+calfinmb_b1,5,3
+calfinmb_b1,6,4
+calfinmb_b1,7,5
+calfinmb_b1,8,6
+calfinmb_b1,9,7
+calfinmb_b1,Excelente,8
+calfinmb_b1,NaN,9
+calfinmb_b1,No aplica,10
+calfinmb_b1,Pesimo,11
+limp2, ,0
+limp2,NaN,1
+limp2,No,2
+limp2,Si,3
+infimss,NaN,0
+infimss,No,1
+infimss,Si,2
+finfimss, ,0
+finfimss,De otras personas,1
+finfimss,En la misma clinica,2
+finfimss,Internet,3
+finfimss,"Medio impreso (folleto,mural, triptico)",4
+finfimss,NaN,5
+finfimss,Periodico,6
+finfimss,Radio/Television,7
+finfimss,"Redes sociales (Facebook, Twitter, Instagram, TikTok, etc.)",8
+finfimss,Telefono,9
+finfimss,"Visita a domicilio, conocidos, casa, trabajo y escuela",10
+conf_redess, ,0
+conf_redess,2,1
+conf_redess,3,2
+conf_redess,4,3
+conf_redess,Muy confiable,4
+conf_redess,NaN,5
+conf_redess,Nada confiable,6
+atn1fam,NaN,0
+atn1fam,No,1
+atn1fam,Si,2
+atnpref,NaN,0
+atnpref,No,1
+atnpref,Si,2
+atnpref2_a,Frecuentemente,0
+atnpref2_a,Muy frecuentemente,1
+atnpref2_a,NaN,2
+atnpref2_a,Nunca,3
+atnpref2_a,Poco frecuente,4
+imagen,Buena,0
+imagen,Excelente,1
+imagen,Mala,2
+imagen,NaN,3
+imagen,Ni buena ni mala,4
+imagen,Pesima,5
+cal1,Buena,0
+cal1,Excelente,1
+cal1,Mala,2
+cal1,NaN,3
+cal1,Pesima,4
+cal1,Regular,5
+recomej_1,Contar con espacios para personas con discapacidad,0
+recomej_1,Den mas fichas para citas,1
+recomej_1,Extender el horario de atencion,2
+recomej_1,Instalar bebederos con agua potable disponible,3
+recomej_1,Limpieza en general de la unidad,4
+recomej_1,Mas medicamentos y de mejor calidad,5
+recomej_1,Mas personal/medicos/especialistas,6
+recomej_1,"Mejor trato y/o atencion por parte del personal (medicos,  especialistas, operativos y vigilancia)",7
+recomej_1,Mejorar la calidad en el servicio de urgencias,8
+recomej_1,Mejorar y/o ampliar el servicio de ambulancias,9
+recomej_1,Mejorar y/o ampliar el servicio de archivo,10
+recomej_1,Mejorar y/o ampliar el servicio de farmacia,11
+recomej_1,Mejorar y/o ampliar el servicio de laboratorio,12
+recomej_1,Mejorar/cambiar la direccion administrativa,13
+recomej_1,Mejorar/cambiar la organizacion,14
+recomej_1,"Modernizar y/o ampliar las instalaciones (espacio para familiares, estacionamiento)",15
+recomej_1,"NADA, todo esta bien",16
+recomej_1,NaN,17
+recomej_1,Reducir el tiempo de espera en el servicio de atencion continua,18
+recomej_1,Reducir tiempos de espera para consulta,19
+recomej_1,Reducir tiempos de espera para obtener citas,20
+recomej_1,Reducir tiempos de espera para resultados de estudios,21
+recomej_1,Reducir tiempos de espera para tramites,22
+recomej_1,Todo / Seguir mejorando,23
+recomej_2, ,0
+recomej_2,Contar con espacios para personas con discapacidad,1
+recomej_2,Den mas fichas para citas,2
+recomej_2,Extender el horario de atencion,3
+recomej_2,Instalar bebederos con agua potable disponible,4
+recomej_2,Limpieza en general de la unidad,5
+recomej_2,Mas medicamentos y de mejor calidad,6
+recomej_2,Mas personal/medicos/especialistas,7
+recomej_2,"Mejor trato y/o atencion por parte del personal (medicos,  especialistas, operativos y vigilancia)",8
+recomej_2,Mejorar la calidad en el servicio de urgencias,9
+recomej_2,Mejorar y/o ampliar el servicio de ambulancias,10
+recomej_2,Mejorar y/o ampliar el servicio de archivo,11
+recomej_2,Mejorar y/o ampliar el servicio de farmacia,12
+recomej_2,Mejorar y/o ampliar el servicio de laboratorio,13
+recomej_2,Mejorar/cambiar la direccion administrativa,14
+recomej_2,Mejorar/cambiar la organizacion,15
+recomej_2,"Modernizar y/o ampliar las instalaciones (espacio para familiares, estacionamiento)",16
+recomej_2,Reducir el tiempo de espera en el servicio de atencion continua,17
+recomej_2,Reducir tiempos de espera para consulta,18
+recomej_2,Reducir tiempos de espera para obtener citas,19
+recomej_2,Reducir tiempos de espera para resultados de estudios,20
+recomej_2,Reducir tiempos de espera para tramites,21
+recomej_3, ,0
+recomej_3,Contar con espacios para personas con discapacidad,1
+recomej_3,Den mas fichas para citas,2
+recomej_3,Extender el horario de atencion,3
+recomej_3,Instalar bebederos con agua potable disponible,4
+recomej_3,Limpieza en general de la unidad,5
+recomej_3,Mas medicamentos y de mejor calidad,6
+recomej_3,Mas personal/medicos/especialistas,7
+recomej_3,"Mejor trato y/o atencion por parte del personal (medicos,  especialistas, operativos y vigilancia)",8
+recomej_3,Mejorar la calidad en el servicio de urgencias,9
+recomej_3,Mejorar y/o ampliar el servicio de ambulancias,10
+recomej_3,Mejorar y/o ampliar el servicio de archivo,11
+recomej_3,Mejorar y/o ampliar el servicio de farmacia,12
+recomej_3,Mejorar y/o ampliar el servicio de laboratorio,13
+recomej_3,Mejorar/cambiar la direccion administrativa,14
+recomej_3,"Modernizar y/o ampliar las instalaciones (espacio para familiares, estacionamiento)",15
+recomej_3,Reducir el tiempo de espera en el servicio de atencion continua,16
+recomej_3,Reducir tiempos de espera para consulta,17
+recomej_3,Reducir tiempos de espera para obtener citas,18
+recomej_3,Reducir tiempos de espera para resultados de estudios,19
+recomej_3,Reducir tiempos de espera para tramites,20
+turno,Matutino,0
+turno,NaN,1
+turno,Vespertino,2
+antdhu,0.017857143,0
+antdhu,0.035714286,1
+antdhu,0.053571429,2
+antdhu,0.083333333,3
+antdhu,0.101190476,4
+antdhu,0.107142857,5
+antdhu,0.119047619,6
+antdhu,0.166666667,7
+antdhu,0.202380952,8
+antdhu,0.25,9
+antdhu,0.333333333,10
+antdhu,0.416666667,11
+antdhu,0.5,12
+antdhu,0.583333333,13
+antdhu,0.666666667,14
+antdhu,0.68452381,15
+antdhu,0.702380952,16
+antdhu,0.75,17
+antdhu,0.833333333,18
+antdhu,0.916666667,19
+antdhu,1,20
+antdhu,1.083333333,21
+antdhu,1.25,22
+antdhu,1.333333333,23
+antdhu,1.416666667,24
+antdhu,1.5,25
+antdhu,10,26
+antdhu,11,27
+antdhu,12,28
+antdhu,13,29
+antdhu,14,30
+antdhu,15,31
+antdhu,16,32
+antdhu,17,33
+antdhu,18,34
+antdhu,19,35
+antdhu,2,36
+antdhu,2.416666667,37
+antdhu,2.5,38
+antdhu,20,39
+antdhu,21,40
+antdhu,22,41
+antdhu,23,42
+antdhu,24,43
+antdhu,25,44
+antdhu,26,45
+antdhu,27,46
+antdhu,28,47
+antdhu,29,48
+antdhu,3,49
+antdhu,3.5,50
+antdhu,30,51
+antdhu,31,52
+antdhu,32,53
+antdhu,33,54
+antdhu,34,55
+antdhu,35,56
+antdhu,36,57
+antdhu,36.5,58
+antdhu,37,59
+antdhu,38,60
+antdhu,39,61
+antdhu,4,62
+antdhu,4.5,63
+antdhu,40,64
+antdhu,41,65
+antdhu,42,66
+antdhu,43,67
+antdhu,44,68
+antdhu,45,69
+antdhu,46,70
+antdhu,47,71
+antdhu,48,72
+antdhu,49,73
+antdhu,5,74
+antdhu,5.5,75
+antdhu,50,76
+antdhu,50.5,77
+antdhu,51,78
+antdhu,52,79
+antdhu,53,80
+antdhu,54,81
+antdhu,55,82
+antdhu,56,83
+antdhu,57,84
+antdhu,58,85
+antdhu,59,86
+antdhu,6,87
+antdhu,6.5,88
+antdhu,60,89
+antdhu,61,90
+antdhu,62,91
+antdhu,63,92
+antdhu,64,93
+antdhu,65,94
+antdhu,67,95
+antdhu,68,96
+antdhu,7,97
+antdhu,7.5,98
+antdhu,70,99
+antdhu,72,100
+antdhu,73,101
+antdhu,74,102
+antdhu,75,103
+antdhu,76,104
+antdhu,78,105
+antdhu,8,106
+antdhu,8.5,107
+antdhu,80,108
+antdhu,81,109
+antdhu,9,110
+antdhu,NaN,111
+antusuario,1,0
+antusuario,10,1
+antusuario,100,2
+antusuario,20,3
+antusuario,5,4
+antusuario,50,5
+tiempollegar,+120,0
+tiempollegar,10,1
+tiempollegar,120,2
+tiempollegar,20,3
+tiempollegar,30,4
+tiempollegar,5,5
+tiempollegar,60,6
+filtroaten,NaN,0
+filtroaten,No,1
+filtroaten,Si,2
+otroserv, ,0
+otroserv,Centro de salud (Secretaria de Salud),1
+otroserv,"Consultorios de farmacias particulares (Dr. Simi, Genericos, Farmacias del ahorro, etc.)",2
+otroserv,ISSSTE,3
+otroserv,Medico privado,4
+otroserv,NaN,5
+solprobsal_otro, ,0
+solprobsal_otro,NaN,1
+solprobsal_otro,No,2
+solprobsal_otro,Si,3
+mej_serv, ,0
+mej_serv,Donde recibio atencion medica,1
+mej_serv,En ambos,2
+mej_serv,En el IMSS,3
+mej_serv,En ninguno,4
+mej_serv,NaN,5
+refres,A veces,0
+refres,Casi siempre,1
+refres,NaN,2
+refres,Nunca,3
+refres,Pocas veces,4
+refres,Siempre,5
+chat,A veces,0
+chat,Casi siempre,1
+chat,NaN,2
+chat,Nunca,3
+chat,Pocas veces,4
+chat,Siempre,5
+ejer,A veces,0
+ejer,Casi siempre,1
+ejer,NaN,2
+ejer,Nunca,3
+ejer,Pocas veces,4
+ejer,Siempre,5
+sment,A veces,0
+sment,Casi siempre,1
+sment,NaN,2
+sment,No aplica,3
+sment,Nunca,4
+sment,Pocas veces,5
+sment,Siempre,6
+calif_edosal,Bueno,0
+calif_edosal,Excelente,1
+calif_edosal,Malo,2
+calif_edosal,NaN,3
+calif_edosal,Pesimo,4
+calif_edosal,Regular,5
+ultacuimss,NaN,0
+ultacuimss,No,1
+ultacuimss,Si,2
+probsal_pais,"Adicciones (drogas, alcohol)",0
+probsal_pais,Alimentacion/Desnutricion,1
+probsal_pais,Artritis,2
+probsal_pais,Cancer,3
+probsal_pais,Covid-19,4
+probsal_pais,Diabetes,5
+probsal_pais,Discapacidades,6
+probsal_pais,Enfermedades de transmision sexual,7
+probsal_pais,Enfermedades degenerativas/cronicas,8
+probsal_pais,Estres,9
+probsal_pais,Falta de prevencion/Ciudado de salud,10
+probsal_pais,Hipertension/Presion alta,11
+probsal_pais,Insuficiencia renal/problemas en los rinones,12
+probsal_pais,NaN,13
+probsal_pais,Obesidad,14
+probsal_pais,Problemas con huesos/articulaciones,15
+probsal_pais,Problemas de la vista,16
+probsal_pais,Problemas estomacales/instestinales,17
+probsal_pais,Problemas respiratorios,18
+probsal_pais,Salud Mental,19
+probsal_pais,Sobrepeso,20
+probsal_pais,Tiroides,21
+probsal_pais,Tos/Gripe/Resfriados,22
+probsal_pais,Virus e infecciones,23
+edu_salud,De acuerdo,0
+edu_salud,En desacuerdo,1
+edu_salud,NaN,2
+edu_salud,Ni de acuerdo ni desacuerdo,3
+edu_salud,Totalmente de acuerdo,4
+edu_salud,Totalmente en desacuerdo,5
+cuid_agua,Mucha,0
+cuid_agua,NaN,1
+cuid_agua,Nada,2
+cuid_agua,Poca,3
+edad,18,0
+edad,19,1
+edad,20,2
+edad,21,3
+edad,22,4
+edad,23,5
+edad,24,6
+edad,25,7
+edad,26,8
+edad,27,9
+edad,28,10
+edad,29,11
+edad,30,12
+edad,31,13
+edad,32,14
+edad,33,15
+edad,34,16
+edad,35,17
+edad,36,18
+edad,37,19
+edad,38,20
+edad,39,21
+edad,40,22
+edad,41,23
+edad,42,24
+edad,43,25
+edad,44,26
+edad,45,27
+edad,46,28
+edad,47,29
+edad,48,30
+edad,49,31
+edad,50,32
+edad,51,33
+edad,52,34
+edad,53,35
+edad,54,36
+edad,55,37
+edad,56,38
+edad,57,39
+edad,58,40
+edad,59,41
+edad,60,42
+edad,61,43
+edad,62,44
+edad,63,45
+edad,64,46
+edad,65,47
+edad,66,48
+edad,67,49
+edad,68,50
+edad,69,51
+edad,70,52
+edad,71,53
+edad,72,54
+edad,73,55
+edad,74,56
+edad,75,57
+edad,76,58
+edad,77,59
+edad,78,60
+edad,79,61
+edad,80,62
+edad,81,63
+edad,82,64
+edad,83,65
+edad,84,66
+edad,85,67
+edad,86,68
+edad,87,69
+edad,88,70
+edad,89,71
+edad,90,72
+edad,91,73
+edad,92,74
+edad,94,75
+edad,95,76
+edad,96,77
+edad,97,78
+edad,98,79
+sexo,Hombre,0
+sexo,Mujer,1
+escolar,NaN,0
+escolar,Ninguno,1
+escolar,"Preparatoria, bachillerato o carrera tecnica completa",2
+escolar,"Preparatoria, bachillerato o carrera tecnica incompleta",3
+escolar,Primaria completa,4
+escolar,Primaria incompleta,5
+escolar,Secundaria completa,6
+escolar,Secundaria incompleta,7
+escolar,Universidad completa o mas,8
+escolar,Universidad incompleta,9
+ocupa,Actividades de su hogar,0
+ocupa,Desempleado,1
+ocupa,Estudiante,2
+ocupa,Maestro,3
+ocupa,NaN,4
+ocupa,Obrero,5
+ocupa,Otro,6
+ocupa,Pensionado o jubilado,7
+ocupa,Sector agropecuario,8
+ocupa,Sector privado,9
+ocupa,Sector publico,10
+ocupa,Trabajador por cuenta propia,11
+ocupa,Trabajadora domestica,12
+trabajoanio,NaN,0
+trabajoanio,No,1
+trabajoanio,Si,2
+promedio_diario_2024,100,0
+promedio_diario_2024,1000,1
+promedio_diario_2024,2000,2
+promedio_diario_2024,500,3
+promedio_diario_2024,5000,4
+FE_FinalNR,+240,0
+FE_FinalNR,120,1
+FE_FinalNR,160,2
+FE_FinalNR,200,3
+FE_FinalNR,40,4
+FE_FinalNR,80,5
